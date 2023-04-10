@@ -157,6 +157,7 @@ body {
   position: absolute;
   top: -200px;
   right: -50px;
+  z-index: 000;
 }
 
 .daun1{
@@ -397,6 +398,7 @@ body {
 #message::-webkit-input-placeholder{
   color: #541a1d;
   padding-left: 8px;
+  font-size: 15px;
 }
 
 .contact-us form #message{
@@ -436,6 +438,7 @@ body {
   width: 100%;
   padding: 10px;
   margin-bottom: 5px;
+  font-size: 15px;
 }
 
 #input_button:hover{
@@ -486,7 +489,7 @@ body {
 #jml-hadir .kecil,
 #jml-tidak-hadir .kecil,
 #jml-ragu .kecil{
-  font-size: 12px;
+  font-size: 10px;
 }
 
 #jml-tidak-hadir{
