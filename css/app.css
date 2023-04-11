@@ -19,6 +19,7 @@ body {
     padding: 0px !important;
     /* overflow: hidden; */
     background-color: #fff9fa;
+    overflow-x: hidden;
 }
 
 *::-webkit-scrollbar {
